@@ -1,6 +1,7 @@
 ﻿# <center> Comissões </center>
 
 ## Comissão de Monitoria
+Objetivo da Comissão: {c:red}(...){/c}
 ## Comissão de Orientação e Acompanhamento Acadêmico (COAA) 
 ## Comissão de Avaliação de Docente 
 
