@@ -59,7 +59,7 @@
 | Angela Maria Silva Gonçalves | Vice-Coordenadora Acadêmica do Bacharelado em Ciência da Computação |
 ***
 ## Comissão de Monitoria
-Objetivo da Comissão: 
+**Objetivo da Comissão:**
 
 - Email: monitoria@ic.ufrj.br
 - Composição
@@ -70,15 +70,22 @@ Objetivo da Comissão:
 | João Antonio Recio Paixão |
 ***
 ## Comissão de Orientação e Acompanhamento Acadêmico (COAA) 
-Objetivo da Comissão:
+**Objetivo da Comissão:**
 - E-mail: coaa@ic.ufrj.br
-- Composição:
+- Composição
 
 | Nome |
 | --- | 
+| Angela Maria Silva Gonçalves |
+| Claudson Ferreira Bornstein |
+| João Carlos Pereira da Silva |
+| Juliana Vianna Valério |
+| Maria Helena Cautiero Horta Jardim |
+| Cássio Emanuel Ferreira da Silva  |
+| Victor Prado Siqueira | 
 ***
 ## Comissão de Avaliação de Docente 
-Objetivo da Comissão:
+**Objetivo da Comissão:**
 - E-mail: 
 - Composição
 
@@ -86,7 +93,7 @@ Objetivo da Comissão:
 | --- |
 ***
 ## Comissão de Equivalência 
-Objetivo da Comissão:
+**Objetivo da Comissão:**
 - E-mail: comissaoequivalencia@ic.ufrj.br
 
 | Nome |
@@ -96,14 +103,14 @@ Objetivo da Comissão:
 | Luziane Ferreira de Mendonça | 
 ***
 ## Comissão de Atividades Complementares 
-Objetivo da Comissão:
+**Objetivo da Comissão:**
 - E-mail: coac@ic.ufrj.br
   
 | Nome |
 | --- |
 ***
 ## Núcleo Docente Estruturante (NDE) 
-Objetivo da Comissão:
+**Objetivo da Comissão:**
 - Email: nde@ic.ufrj.br
   
 | Nome |
@@ -118,11 +125,11 @@ Objetivo da Comissão:
 | Marcello Goulart Teixeira |
 ***
 ## Comissão de Reforma Curricular
-Objetivo da Comissão:
+**Objetivo da Comissão:**
 RETIRAR?
 ***
 ## Comissão Transferências e Mudança de Curso
-Objetivo da Comissão:
+**Objetivo da Comissão:**
 - E-mail: comissaotransferencia@ic.ufrj.br
 
 | Nome |
@@ -132,43 +139,67 @@ Objetivo da Comissão:
 | Luziane Ferreira de Mendonça |
 ***
 ## Comissão de Revalidação de Diplomas
-Objetivo da Comissão:
-- Maria Helena Cautiero Horta Jardim - Presidente
-- Amaury Alvarez Cruz
-- Daniel Sadoc Menasché
-- Luziane Ferreira de Mendonça
-- Vinícius Gusmão Pereira de Sá
+**Objetivo da Comissão:**
+- E-mail: -
+
+| Nome |
+| --- |
+| Maria Helena Cautiero Horta Jardim - Presidente |
+| Amaury Alvarez Cruz |
+| Daniel Sadoc Menasché |
+| Luziane Ferreira de Mendonça |
+| Vinícius Gusmão Pereira de Sá |
 ***
 ## Comissão de Estágio
-Objetivo da Comissão:
-- Juliana Vianna Valério
-- Juliana Baptista dos Santos França
-- Valéria Menezes Bastos
+**Objetivo da Comissão:**
+- Email: estagio-lista@ic.ufrj.br
+
+| Nome |
+| --- |
+| Juliana Vianna Valério |
+| Juliana Baptista dos Santos França |
+| Valéria Menezes Bastos |
 ***
 ## Comissão Web
-Objetivo da Comissão:
-- Giseli Rabello Lopes
-- Rafael Maiani de Mello
+**Objetivo da Comissão:**
+- E-mail: comissao-web@ic.ufrj.br
+
+| Nome |
+| --- |
+| Giseli Rabello Lopes |
+| Rafael Maiani de Mello |
 ***
 ## Comissão de Progressão de Professores Associados
-Objetivo da Comissão:
+**Objetivo da Comissão:** avaliar documentos e emitir pareceres com vista a progressão de docentes dentro de suas carreiras na classe Associado, classe D, dos níveis I a IV.
+
 ### Titulares
-- Severino Collier Coutinho (Professor Titular- IC/UFRJ) 
-- Márcia Helena Costa Fampa (Profa Titular - IM/UFRJ) 
-- Claudio Luis de Amorim (Prof. Titular COPPE/UFRJ)
+| Nome |
+| --- |
+| Severino Collier Coutinho (Professor Titular- IC/UFRJ) |
+| Márcia Helena Costa Fampa (Profa Titular - IM/UFRJ) |
+| Claudio Luis de Amorim (Prof. Titular COPPE/UFRJ) |
 ### Suplentes
-- Abilio Pereira de Lucena Filho (Prof. Titular COPPE/UFRJ) 
-- Sulamita Klein (Profa Titular COPPE/UFRJ) 
-- Gabriel Pereira da Silva (Professor Titular- IC/UFRJ)
+
+| Nome |
+| --- |
+| Abilio Pereira de Lucena Filho (Prof. Titular COPPE/UFRJ) |
+| Sulamita Klein (Profa Titular COPPE/UFRJ) |
+| Gabriel Pereira da Silva (Professor Titular- IC/UFRJ) |
 ***
 ## Comissão de Progressão de Professores Adjuntos 
-Objetivo da Comissão:
+**Objetivo da Comissão:** avaliar documentos e emitir pareceres com vista a progressão de docentes dentro de suas carreiras na classe Associado, classe C, dos níveis I a IV e classe Adjunto-A, níveis I e II.
 ### Titulares
-- Valéria Menezes Bastos (Professora Associada – IC/UFRJ)
-- Claudson Ferreira Bornstein (Professor Associado - IC/UFRJ)
-- Sergio Manuel Serra da Cruz (Professor Associado - ICE/UFRRJ)
+
+| Nome |
+| --- | 
+| Valéria Menezes Bastos (Professora Associada – IC/UFRJ) |
+| Claudson Ferreira Bornstein (Professor Associado - IC/UFRJ) |
+| Sergio Manuel Serra da Cruz (Professor Associado - ICE/UFRRJ) |
 ### Suplentes
-- Geraldo Bonorino Xexéo (Professor Associado - COPPE/UFRJ) 
-- Jonice de Oliveira Sampaio (Professora Associada - IC/UFRJ)
+
+| Nome |
+| --- |
+| Geraldo Bonorino Xexéo (Professor Associado - COPPE/UFRJ) |
+| Jonice de Oliveira Sampaio (Professora Associada - IC/UFRJ) |
 ## Comissão de Afastamentos
 Objetivo da Comissão:
