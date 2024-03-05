@@ -93,7 +93,7 @@
 | --- |
 ***
 ## Comissão de Equivalência 
-**Objetivo da Comissão:**
+**Objetivo da Comissão:**  Orientar e avaliar os pedidos de dispensa de disciplinas dos alunos do Bacharelado em Ciência da Computação.
 - E-mail: comissaoequivalencia@ic.ufrj.br
 
 | Nome |
@@ -103,11 +103,16 @@
 | Luziane Ferreira de Mendonça | 
 ***
 ## Comissão de Atividades Complementares 
-**Objetivo da Comissão:**
+**Objetivo da Comissão:** 
+- Tirar dúvidas dos alunos do curso de Graduação em Ciência da Computação sobre como as atividades podem ser contabilizadas e quanto conferem de acordo com o tipo e duração.
+- Aferir a carga horária de Atividades Complementares realizada pelo(a) aluno(a) do curso de Graduação em Ciência da Computação, levando em consideração a documentação comprobatória apresentada pelo(a) aluno(a) e o disposto no Plano Pedagógico do curso.
+- Após o deferimento da análise, acompanhar a inserção das horas concedidas  no BOA do(a) aluno(a).
+
 - E-mail: coac@ic.ufrj.br
   
 | Nome |
 | --- |
+| Luziane Ferreira de Mendonça |
 ***
 ## Núcleo Docente Estruturante (NDE) 
 **Objetivo da Comissão:**
@@ -129,7 +134,7 @@
 RETIRAR?
 ***
 ## Comissão Transferências e Mudança de Curso
-**Objetivo da Comissão:**
+**Objetivo da Comissão:** gerenciar todos os procedimentos do IC relativos aos editais de acesso (exceto via SISU) ao curso de Bacharelado em Ciência da Computação: Isenção de Concurso de Acesso, Transferência Externa, Mudança de Curso e Reingresso.
 - E-mail: comissaotransferencia@ic.ufrj.br
 
 | Nome |
@@ -201,5 +206,91 @@ RETIRAR?
 | --- |
 | Geraldo Bonorino Xexéo (Professor Associado - COPPE/UFRJ) |
 | Jonice de Oliveira Sampaio (Professora Associada - IC/UFRJ) |
+***
 ## Comissão de Afastamentos
 Objetivo da Comissão:
+***
+##  Coordenação do PPGI
+- E-mail:
+
+Composição:
+| Nome | Cargo |
+| --- | --- |
+| Daniel Gregório Alfaro Vigo | Coordenador |
+| Mauro Antonio Rincon | Vice-coordenador |
+***
+##  Comissão de Admissão PPGI
+- E-mail:
+
+Composição:
+| Nome | 
+| --- | 
+| Carolina Gil Marcelino | 
+***
+## Comissão de Divulgação do PPGI
+- E-mail:
+
+Composição:
+| Nome |
+| --- |
+| Daniel Sadoc Menasché |
+***
+## Comissão Deliberativa (CD) do PPGI
+- E-mail:
+
+Composição:
+| Nome |
+| --- |
+| Giseli Rabello Lopes |
+| João Antonio Recio Paixão |
+***
+## Comissão de Eventos do PPGI
+- E-mail:
+
+Composição:
+| Nome |
+| --- |
+| Giseli Rabello Lopes |
+| Maria Luiza Machado Campos |
+***
+## Comissão de Processo Seletivo e Nivelamento do PPGI
+- E-mail:
+
+Composição:
+| Nome |
+| --- |
+| João Antonio Recio Paixão |
+***
+## Comissão de Bolsas PPGI
+- E-mail:
+
+Composição:
+| Nome |
+| --- |
+| Marcello Goulart Teixeira |
+***
+## Comissão de Orientação e Acompanhamento Acadêmico (COAA) - BCMT
+- E-mail:
+
+Composição:
+| Nome |
+| --- |
+| Carla Amor Divino Moreira Delgado |
+| Juliana Vianna Valério |
+***
+## Comissão de Revalidação de Diplomas - BCMT
+- E-mail:
+
+Composição:
+| Nome |
+| --- |
+| Carla Amor Divino Moreira Delgado |
+***
+## Coordenação da Ênfase em Análise de Dados - BCMT
+- E-mail:
+
+Composição:
+| Nome | Cargo |
+| --- | --- |
+| Juliana Baptista dos Santos França | Coordenadora |
+
