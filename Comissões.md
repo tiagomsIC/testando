@@ -133,7 +133,7 @@
 **Objetivo da Comissão:**
 RETIRAR?
 ***
-## Comissão Transferências e Mudança de Curso
+## Comissão de Transferência e Mudança de Curso
 **Objetivo da Comissão:** gerenciar todos os procedimentos do IC relativos aos editais de acesso (exceto via SISU) ao curso de Bacharelado em Ciência da Computação: Isenção de Concurso de Acesso, Transferência Externa, Mudança de Curso e Reingresso.
 - E-mail: comissaotransferencia@ic.ufrj.br
 
